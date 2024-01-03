@@ -4,7 +4,10 @@ For an example of a turn, see [SampleTurn.mp4](SampleTurn.mp4):
 
 https://github.com/jRaffill/ultimate-tic-tac-toe/assets/66919400/eec6609f-c94f-4e11-b447-3ea357aafb64
 
-You can try it at the following link: https://onlinegdb.com/83lquSqMV, although for some inexplicable reason it only renders properly in debug mode, and I had to drastically reduce the number of AI simulations to make it runnable due to the limits imposed by the online compiler; download and run the original for the "full experience."
+Live demo:
+-
+
+You can try it at the following link: https://onlinegdb.com/83lquSqMV, although for some inexplicable reason **it only renders properly in debug mode**, and I had to drastically reduce the number of AI simulations to make it runnable due to the limits imposed by the online compiler; download and run the original for the "full experience."
 
 Open Source Dependencies:
 -
