@@ -2,10 +2,9 @@ Implementation of Ultimate Tic Tac Toe (essentially a tic-tac-toe game where eac
 
 For an example of a turn, see [SampleTurn.mp4](SampleTurn.mp4):
 
-
 https://github.com/jRaffill/ultimate-tic-tac-toe/assets/66919400/eec6609f-c94f-4e11-b447-3ea357aafb64
 
-
+You can try it at the following link: https://replit.com/@jRaffill/ultimate-tic-tac-toe, although repl.it unfortunately runs very slowly to the point where I had to drastically reduce the AI simulation numbers in order to get the demo even playable, so the AI doesn't really work in the online version -- if you really want you should run it yourself to get the proper difficulty. 
 
 Open Source Dependencies:
 -
